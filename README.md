@@ -2,8 +2,6 @@
 
 注：由于目的是为了让模型跑通，所以可能数据集的处理有些不合适，但最终结果是模型顺利eval。
 
-[toc]
-
 # 下载models
 
 处理ILSVRC2012 coco2017需要用到tensorflow-models(master)中的文件，所以需要 `git clone https://github.com/tensorflow/models.git`。
