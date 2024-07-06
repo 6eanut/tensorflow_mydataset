@@ -12,7 +12,7 @@
 
 ## 下载并解压数据集
 
-[官网](https://image-net.org/index.php) or [百度网盘](https://pan.baidu.com/s/1TkOZikEQt9qnmt3OUElvpg)提取码ux59：ILSVRC2012_bbox_val_v3.tgz和ILSVRC2012_img_val.tar
+[官网](https://image-net.org/index.php) or [百度网盘](https://pan.baidu.com/s/1TkOZikEQt9qnmt3OUElvpg)(提取码ux59)：ILSVRC2012_bbox_val_v3.tgz和ILSVRC2012_img_val.tar
 
 ```
 tar -xvf ILSVRC2012_img_val.tar -C val/
